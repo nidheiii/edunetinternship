@@ -42,7 +42,7 @@ This project is focused on using Convolutional Neural Networks (CNNs) along with
    
    - For Windows:
      ```
-     env\Scripts ctivate
+     venv\Scripts activate
      ```
 
    - For macOS/Linux:
